@@ -16,6 +16,7 @@
 
 #### misc:
 
+linux <br>
 http (requests) <br>
 MS-cmd and other automation/scripts<br>
 wxwidgets <br>
