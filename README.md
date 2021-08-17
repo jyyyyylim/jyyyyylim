@@ -17,7 +17,7 @@
 #### misc:
 
 linux <br>
-http (requests) <br>
+http (requests), in conjunction with graphql <br>
 MS-cmd and other automation/scripts<br>
 wxwidgets <br>
 "rudimentary" EE <br>
