@@ -18,6 +18,7 @@
 
 linux <br>
 http (requests), in conjunction with graphql <br>
+networking setup incl equipment (saving up for CCNA) <br>
 MS-cmd and other automation/scripts<br>
 wxwidgets <br>
 "rudimentary" EE <br>
