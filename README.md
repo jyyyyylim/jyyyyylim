@@ -23,3 +23,5 @@ MS-cmd and other automation/scripts<br>
 wxwidgets <br>
 "rudimentary" EE <br>
 [non-cancerous UX design](https://jyyyyylim.github.io)
+
+<br>willing to learn more, if the job demands it
