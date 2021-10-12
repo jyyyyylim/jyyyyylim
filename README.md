@@ -22,7 +22,8 @@ http (requests), in conjunction with graphql <br>
 networking setup incl equipment (saving up for CCNA) <br>
 ux <br>
 misc automation/scripts<br>
-wxwidgets <br>
+database design <br>
+some wxwidgets <br>
 "rudimentary" EE <br>
 
 <br>willing to learn more, if the job demands it
