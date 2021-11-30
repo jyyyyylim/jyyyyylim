@@ -1,6 +1,5 @@
 ## i have no need to pad this resume
   
- 
 #### experience, in no particular order:
 <p>
 <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white">
@@ -26,4 +25,5 @@ database design <br>
 some wxwidgets <br>
 "rudimentary" EE <br>
 
+<br>ICTSE undergrad.
 <br>willing to learn more, if the job demands it
