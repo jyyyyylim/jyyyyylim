@@ -17,16 +17,4 @@
 <img src="https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white">
   </p>
 
-#### misc:
-
-linux <br>
-http (requests), in conjunction with graphql <br>
-networking setup incl equipment (saving up for CCNA) <br>
-ux <br>
-misc automation/scripts<br>
-database design <br>
-some wxwidgets <br>
-"rudimentary" EE <br>
-
 <br>ICTSE undergrad.
-<br>willing to learn more, if the job demands it
