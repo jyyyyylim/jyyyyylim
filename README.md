@@ -36,4 +36,4 @@
 
 </p>
 
-<br>ICTSE undergrad.
+<br>ICTSE undergrad, about to major in networking
