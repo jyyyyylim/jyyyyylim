@@ -35,4 +35,4 @@
 
 </p>
 
-<br>ICTSE undergrad, about to major in networking
+<br>an undergrad C++ dilettante, majoring in networking
