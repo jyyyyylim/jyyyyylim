@@ -37,4 +37,7 @@
 
 </p>
 
-<br>an undergrad C++ dilettante, majoring in networking
+- Gods' weakest C++ lover: an undergrad majoring in networking
+- software engineer on the streets, network engineer in the sheets
+- fully selftaught programmer with a passionate disdain for Agile
+- algorithmic perfectionist, dragging the engineering back into software engineering
