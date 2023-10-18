@@ -38,6 +38,7 @@
 </p>
 
 - Gods' weakest C++ lover: an undergrad majoring in networking
-- software engineer on the streets, network engineer in the sheets
+- database engineer on the streets, network engineer in the sheets
+- (former) fullstack dev
 - fully selftaught programmer with a passionate disdain for Agile
 - algorithmic perfectionist, dragging the engineering back into software engineering
