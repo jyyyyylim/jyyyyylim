@@ -37,10 +37,8 @@
 
 </p>
 
-- Gods' weakest C++ lover: a software eng refugee jumping ship to networking
 - your friendly neighborhood solution engineer
 - sysadmin in the streets, greyhatter in the sheets
 - (former) fullstack dev
-- recreational programmer with a passionate disdain for Agile
 - the corporeal embodiment of RTFM
 - algorithmic perfectionist, dragging the engineering back into software engineering
